@@ -15,6 +15,5 @@ From building enterprise-grade mobile apps to developing visionary AR experience
 - 👨‍💻 Expert in ARKit, RealityKit, and spatial interaction design
 
 
-This blog is my personal space to share insights, tips, and behind-the-scenes knowledge from deep inside the spatial computing revolution. Welcome to the future.
 
-Welcome to the cutting edge.
+This blog is my personal space to share insights, tips, and behind-the-scenes knowledge from deep inside the spatial computing revolution. Welcome to the future.
