@@ -6,9 +6,3 @@ categories: [Swift, RealityKit]
 ---
 
 Welcome to my blog about visionOS development.
-
-```swift
-let headEntity = Entity()
-headEntity.components.set(AnchoringComponent(.head))
-rootEntity.addChild(headEntity)
-```

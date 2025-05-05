@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+👋 About Hunter Harris
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm **Hunter Harris**, a leading developer in the world of spatial computing and immersive design. With **14 Vision Pro apps published**—several of them **featured by Apple on the App Store**—I’ve spent over a decade pushing the boundaries of what's possible using **ARKit**, **RealityKit**, **SwiftUI**, and **Objective-C**.
+
+
+From building enterprise-grade mobile apps to developing visionary AR experiences, I specialize in high-performance **AR and VR applications** for **iPhone and Apple Vision Pro**.
+
+- 🧠 10+ years of iOS development
+- 🚀 14 Vision Pro apps published
+- 👨‍💻 Expert in ARKit, RealityKit, and spatial interaction design
+
+
+This blog is my personal space to share insights, tips, and behind-the-scenes knowledge from deep inside the spatial computing revolution. Welcome to the future.
+
+Welcome to the cutting edge.
