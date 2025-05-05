@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hunter’s Vision
-email:
+baseurl: "/hunter-spatial"
+email: hunter@hunt3r.org
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring Vision Pro, Swift, ARKit, and RealityKit.
 twitter_username: hunter_spatial
