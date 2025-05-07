@@ -79,9 +79,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hunterh37"
-   - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/hunter-spatial.bsky.social"
 
 defaults:
   # _posts
